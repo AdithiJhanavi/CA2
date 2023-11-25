@@ -118,14 +118,12 @@
     margin: 20px auto;
     text-align: center;
     border: 2px solid #ffffff;
-    padding: 14px 10px;
+    padding: 14px 1px;
     width: 200px;
     outline: none;
     color: white;
     border-radius: 24px;
-    transition: 0.25s;
- 
-    
+    transition: 0.25s;  
 }
 .box input[type="text"]:hover, .box input[type="text"]:hover {
     width: 280px;

@@ -343,7 +343,7 @@ box-shadow: 10px 0px 20px rgba(0, 0, 0, 0.4);
     font-family: 'Lobster', sans-serif;
     border: 2px solid black;
     top: 70%;
-    left: 40.5%;
+    left: 4.5%;
     width: 240px;
     height: 50px;
     border-radius: 1em;
@@ -418,7 +418,7 @@ box-shadow: 10px 0px 20px rgba(0, 0, 0, 0.4);
 }
 .fourth-page .text{
     left: 6%;
-    font-size: 20px;
+    font-size: 2rem;
 }
 #frt-main1{
     position: absolute;
@@ -471,7 +471,7 @@ box-shadow: 10px 0px 20px rgba(0, 0, 0, 0.4);
      }
      .open{
         top: 75%;
-        left: 15%;
+        left: 22%;
         text-align: center;
         font-size: 15px;
          

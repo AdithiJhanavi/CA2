@@ -64,12 +64,13 @@ img::selection{
 
 #timer {
     width: 10%;
+    
     position: absolute;
-    top: 7vh;
-    right: 7vh;
+    top: 9vh;
+    left: 7vh;
     font-size: 4vw;
     border: 2px solid rgb(48, 5, 5) ;
-    border-radius: 3px;
+    border-radius: 22px;
 
 }
 @media(max-width: 570px){

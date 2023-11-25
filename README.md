@@ -2,7 +2,7 @@
 Potter Craft Game
 Welcome to the magical world of Potter Craft! This project is an interactive game that takes you on a journey through the wizarding world of Hogwarts. 
 
-It is a responsive game, media query is given from max-width 570px, but as moblie view has a width of 370 to 375 it is adjusted accordingly.
+It is a responsive game, media query is given from max-width 550px and adjusted accordingly
 
 Potter Craft is a web-based game that combines elements of magic and skill.The project is designed to be an immersive experience inspired by the Harry Potter universe.
 
